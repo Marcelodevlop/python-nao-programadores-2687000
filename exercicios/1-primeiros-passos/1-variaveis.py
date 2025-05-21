@@ -5,7 +5,15 @@
 
 # Declare variáveis do tipo string
 
+nome = "Marcelo"
+escola = "EEPJIS"
+
 # Declare variáveis de cada tipo numérico
 
+idade = 18
+quantidade = 20
 
 # Declare uma variável do tipo booleano
+
+preco = 12.3
+valor = 23.5
